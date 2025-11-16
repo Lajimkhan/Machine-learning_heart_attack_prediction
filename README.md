@@ -168,18 +168,4 @@ Use:
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**.
 
----
-
-## 🧑‍💻 Author
-**Lajim**  
-Machine Learning & Data Science Enthusiast  
-(Feel free to modify this section)
-
----
-
-## ⭐ Contributions
-Pull requests are welcome!  
-If you use this project, consider giving the repo a **star** ⭐
